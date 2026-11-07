@@ -1,16 +1,16 @@
 {
-	"geode": "{{ 4.0.0 }}",
-	"gd":2.2081 {
+	"geode": "4.0.0",
+	"gd": {
 		"win": "2.2081",
 		"android": "2.2081",
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "{{ he.rs.eys }}",
-	"name": "{{ GeodeTestMod }}",
-	"version": "{{ 1.0.0 }}",
-	"developer": "{{ Buido }}",
-	"description": "{{ no description yet }}",
+	"id": "hers.eys",
+	"name": "GeodeTestMod",
+	"version": "1.0.0",
+	"developer": "Buido",
+	"description": "Changes colors sharply every second",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
